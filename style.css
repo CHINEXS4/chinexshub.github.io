@@ -184,6 +184,7 @@ header.sticky{
     max-width: 530px;
     height: auto;
     width: 100%;
+    aspect-ratio:1/1;
     border-radius: 50%;
 }
 .about-text h2{
