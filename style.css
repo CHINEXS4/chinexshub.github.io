@@ -184,7 +184,7 @@ header.sticky{
     max-width: 530px;
     height: auto;
     width: 100%;
-    border-radius: 8px;
+    border-radius: 50%;
 }
 .about-text h2{
     font-size: var(--h2-font);
